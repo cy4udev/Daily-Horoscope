@@ -32,7 +32,7 @@ Embrace the enchanting world of astrology with [**@cy4udev_HoroscopeBot**](https
 
 #### Keywords
 
-[**Daily Horoscope**](https://cy4u.dev/Daily-Horoscope "Daily Horoscope"), [**Telegram Bot**](https://cy4u.dev "Telegram Bot"), [**Daily Horoscope for Telegram**](https://cy4u.dev/Daily-Horoscope "Daily Horoscope for Telegram"), [**Daily Horoscope Bot**](https://cy4u.dev/Daily-Horoscope "Daily Horoscope Bot"), [**Daily Horoscope Bot for Telegram**](https://cy4u.dev/Daily-Horoscope "Daily Horoscope Bot for Telegram")
+[**Daily Horoscope**](https://cy4u.dev/Daily-Horoscope "Daily Horoscope"), [**Telegram Bots**](https://cy4u.dev "Telegram Bots"), [**Daily Horoscope for Telegram**](https://cy4u.dev/Daily-Horoscope "Daily Horoscope for Telegram"), [**Daily Horoscope Bot**](https://cy4u.dev/Daily-Horoscope "Daily Horoscope Bot"), [**Daily Horoscope Bot for Telegram**](https://cy4u.dev/Daily-Horoscope "Daily Horoscope Bot for Telegram")
 
 #### Sponsor & Donate
 
