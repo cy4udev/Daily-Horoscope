@@ -1,6 +1,8 @@
 # Telegram için Günlük Burç Yorumları
 
-Günlük Burç Yorumlarınızı [@cy4udev_HoroscopeBot](https://t.me/cy4udev_HoroscopeBot "Günlük Burç Yorumları") ile Keşfedin
+**Mevcut Diller**: [🇹🇷](https://cy4u.dev/Daily-Horoscope/README-TR "Türkçe") [🇺🇸](https://cy4u.dev/Daily-Horoscope/ "İngilizce")
+
+Günlük Burç Yorumlarınızı [**@cy4udev_HoroscopeBot**](https://t.me/cy4udev_HoroscopeBot "Günlük Burç Yorumları") ile Keşfedin
 
 Kozmosun sırlarını çözmeye hazır mısınız? Günlük burç yorumları için güvenilir arkadaşınız [**Günlük Burç Yorumları**](https://t.me/cy4udev_HoroscopeBot "Günlük Burç Yorumları") ile tanışın.
 
