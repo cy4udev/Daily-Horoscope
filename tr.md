@@ -32,7 +32,7 @@ Astrolojinin büyüleyici dünyasını [**@cy4udev_HoroscopeBot**](https://t.me/
 
 #### Anahtar Kelimeler
 
-[**Günlük Burç Yorumları**](https://cy4u.dev/Daily-Horoscope/tr "Günlük Burç Yorumları"), [**Telegram Bot**](https://cy4u.dev "Telegram Bot Yorumları"), [**Telegram Günlük Burç Yorumları**](https://cy4u.dev/Daily-Horoscope/tr "Telegram Günlük Burç Yorumları"), [**Telegram Burç Yorumu**](https://cy4u.dev/Daily-Horoscope/tr "Telegram Burç Yorumu")
+[**Günlük Burç Yorumları**](https://cy4u.dev/Daily-Horoscope/tr "Günlük Burç Yorumları"), [**Telegram Bot**](https://cy4u.dev "Telegram Bot Yorumları"), [**Telegram Günlük Burç Yorumları**](https://cy4u.dev/Daily-Horoscope/tr "Telegram Günlük Burç Yorumları"), [**Telegram Burç Yorumu**](https://cy4u.dev/Daily-Horoscope/tr "Telegram Burç Yorumu"), [**NodeJS Developer**](https://cy4u.dev "NodeJS Developer"), [**Back-end Developer**](https://cy4u.dev "Back-end Developer"), [**Node.JS Developer**](https://cy4u.dev "Node.JS Developer")
 
 #### Sponsorluk ve Bağış
 
