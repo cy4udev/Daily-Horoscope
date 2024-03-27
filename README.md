@@ -1,6 +1,8 @@
 # Daily Horoscope for Telegram
 
-Discover Your Daily Horoscope with [@cy4udev_HoroscopeBot](https://t.me/cy4udev_HoroscopeBot "Daily Horoscope")
+**Available Languages**: [🇺🇸](https://cy4u.dev/Daily-Horoscope/ "English") [🇹🇷](https://cy4u.dev/Daily-Horoscope/README-TR "Turkish")
+
+Discover Your Daily Horoscope with [**@cy4udev_HoroscopeBot**](https://t.me/cy4udev_HoroscopeBot "Daily Horoscope")
 
 Are you ready to unlock the secrets of the cosmos? Meet [**Daily Horoscope**](https://t.me/cy4udev_HoroscopeBot "Daily Horoscope"), your trusted companion for daily horoscope insights.
 
@@ -27,3 +29,19 @@ Delve into a world where the stars align to guide your every move. With this inn
 ### Open the Doors to a World of Possibilities!
 
 Embrace the enchanting world of astrology with [**@cy4udev_HoroscopeBot**](https://t.me/cy4udev_HoroscopeBot "Daily Horoscope"). Let the cosmos be your guide as you embark on a journey of self-discovery and empowerment. Seize the day and unlock a universe filled with infinite possibilities!
+
+#### Keywords
+
+[**Daily Horoscope**](https://t.me/cy4udev_HoroscopeBot "Daily Horoscope"), [**Telegram Bot**](https://t.me/cy4udev_HoroscopeBot "Telegram Bot"), [**Daily Horoscope for Telegram**](https://t.me/cy4udev_HoroscopeBot "Daily Horoscope for Telegram"), [**Daily Horoscope Bot**](https://t.me/cy4udev_HoroscopeBot "Daily Horoscope Bot"), [**Daily Horoscope Bot for Telegram**](https://t.me/cy4udev_HoroscopeBot "Daily Horoscope Bot for Telegram")
+
+#### Sponsor & Donate
+
+[Patreon](https://patreon.com/cy4udev "cy4udev patreon")
+
+#### Copyright & Other Issues
+
+[hello@cy4u.dev](mailto:hello@cy4u.dev "hello@cy4u.dev")
+
+#### License
+
+[**Can Yesilyurt**](https://canyesilyurt.com "Can Yesilyurt") & [**cy4udev**](https://cy4u.dev "cy4udev")
