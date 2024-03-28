@@ -36,7 +36,7 @@ Embrace the enchanting world of astrology with [**@cy4udev_HoroscopeBot**](https
 
 #### Sponsor & Donate
 
-[Patreon](https://patreon.com/cy4udev "cy4udev patreon")
+[Patreon](https://patreon.com/cy4udev "cy4udev patreon") |
 
 #### Copyright & Other Issues
 
