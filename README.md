@@ -32,7 +32,7 @@ Embrace the enchanting world of astrology with [**@cy4udev_HoroscopeBot**](https
 
 #### Keywords
 
-[**Daily Horoscope**](https://cy4u.dev/Daily-Horoscope "Daily Horoscope"), [**Telegram Bots**](https://cy4u.dev "Telegram Bots"), [**Daily Horoscope for Telegram**](https://cy4u.dev/Daily-Horoscope "Daily Horoscope for Telegram"), [**Daily Horoscope Bot**](https://cy4u.dev/Daily-Horoscope "Daily Horoscope Bot"), [**Daily Horoscope Bot for Telegram**](https://cy4u.dev/Daily-Horoscope "Daily Horoscope Bot for Telegram"), [**NodeJS Developer**](https://cy4u.dev "NodeJS Developer"), [**Back-end Developer**](https://cy4u.dev "Back-end Developer"), [**Node.JS Developer**](https://cy4u.dev "Node.JS Developer")
+[**Daily Horoscope**](https://cy4u.dev/Daily-Horoscope "Daily Horoscope"), [**Telegram Bots**](https://cy4u.dev "Telegram Bots"), [**Daily Horoscope for Telegram**](https://cy4u.dev/Daily-Horoscope "Daily Horoscope for Telegram"), [**Daily Horoscope Bot**](https://cy4u.dev/Daily-Horoscope "Daily Horoscope Bot"), [**Daily Horoscope Bot for Telegram**](https://cy4u.dev/Daily-Horoscope "Daily Horoscope Bot for Telegram"), [**NodeJS Developer**](https://cy4u.dev "NodeJS Developer"), [**Back-end Developer**](https://cy4u.dev "Back-end Developer"), [**Backend Developer**](https://cy4u.dev "Backend Developer"), [**Node.JS Developer**](https://cy4u.dev "Node.JS Developer")
 
 #### Sponsor & Donate
 
