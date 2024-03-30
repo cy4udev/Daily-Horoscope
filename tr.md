@@ -36,7 +36,7 @@ Astrolojinin büyüleyici dünyasını [**@cy4udev_HoroscopeBot**](https://t.me/
 
 #### Sponsorluk ve Bağış
 
-[Patreon](https://patreon.com/cy4udev "cy4udev patreon") | [BuyMeaCoffee](https://www.buymeacoffee.com/cy4udev "cy4udev BuyMeaCoffee")
+[Github](https://github.com/sponsors/cy4udev "cy4udev github") | [Patreon](https://patreon.com/cy4udev "cy4udev patreon") | [BuyMeaCoffee](https://www.buymeacoffee.com/cy4udev "cy4udev BuyMeaCoffee")
 
 #### Telif Hakkı ve Diğer Konular
 
