@@ -1,6 +1,6 @@
 # Daily Horoscope for Telegram
 
-**Available Languages**: [🇺🇸](https://cy4u.dev/Daily-Horoscope/ "English") [🇹🇷](https://cy4u.dev/Daily-Horoscope/tr "Turkish")
+**Available Languages**: [🇺🇸](https://cy4u.dev/Daily-Horoscope/ "English") [🇹🇷](https://cy4u.dev/Daily-Horoscope/tr.html "Turkish")
 
 Discover Your Daily Horoscope with [**@cy4udev_HoroscopeBot**](https://t.me/cy4udev_HoroscopeBot "Daily Horoscope")
 
