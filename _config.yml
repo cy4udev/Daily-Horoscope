@@ -3,9 +3,9 @@ defaults:
       path: "" # Kök klasör
       type: "pages"
     values:
-      permalink: /:path/index.html
+      permalink: /:path/
   - scope:
-      path: "tr" # tr klasörü için kapsam
+      path: "tr.html" # tr.html dosyası için kapsam
       type: "pages"
     values:
-      permalink: /tr.html
+      permalink: /:path
