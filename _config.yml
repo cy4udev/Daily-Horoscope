@@ -5,7 +5,7 @@ defaults:
     values:
       permalink: /:path/index.html
   - scope:
-      path: "tr" # tr klasörü için kapsam
+      path: "tr.html" # tr.html dosyası için kapsam
       type: "pages"
     values:
-      permalink: /tr.html
+      permalink: /:path
